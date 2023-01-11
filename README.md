@@ -1,4 +1,4 @@
-# Create 3 collapsible and closable lists.
+# Collapsible and closable lists.
 - List title should be displayed.
 - On close button click, log "title of the list"`
 - Expand/collapse should be working.
